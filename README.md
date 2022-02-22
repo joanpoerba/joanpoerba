@@ -1,6 +1,19 @@
-### About ME 👋
-My name is Joan from Indonesia
-
-![wallpaper](https://user-images.githubusercontent.com/99418423/155102715-31140b41-7e45-4604-8570-feec710fc177.jpg)
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        body{
+            font-family: arial;
+        }
+    </style>
+<body>
+    <h1>ABOUT ME</h1>
+    <hr>
+    <p>hai everyone</p>
+</body>
+</html>
