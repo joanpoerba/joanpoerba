@@ -9,6 +9,9 @@
         h1{
             font-family: arial;
         }
+        p{
+            color: red;
+        }
     </style> -->
 <body>
     <h1>ABOUT ME</h1>
