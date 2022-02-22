@@ -15,6 +15,7 @@
     <p style="color: rgb(13,17,23);">
         Hi coders!👋🏻 <br>My name is Joan, I'm from Indonesia. <br>I like to learn about coding 💻 because thats fun and intersting. I hope u enjoy my github. 
     </p>
+    <br>
     <h1>PROGRAMING LANGUAGE I CAN, BUT JUST BASIC</h1>
     <div class="kotak">
         <img src="80-803527_html5-css3-and-javascript-logos-html5-logo-png-removebg-preview.png">
