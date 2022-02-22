@@ -16,8 +16,7 @@
         Hi coders!👋🏻 <br>My name is Joan, I'm from Indonesia. <br>I like to learn about coding 💻 because thats fun and intersting. I hope u enjoy my github. 
     </p>
     <br>
-    <h1>PROGRAMING LANGUAGE I CAN, BUT JUST BASIC</h1>
-    <div>
-        <img style="width: 5%;" src="https://mpng.subpng.com/20180406/uew/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg">
+    <h1>MY DREAM IS WORK AT:</h1>
+
 </body>
 </html>
