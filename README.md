@@ -12,5 +12,8 @@
     </style> -->
 <body>
     <h1>ABOUT ME</h1>
+    <p style="color: rgb(13,17,23);">
+        Hi coders! <br>My name is Joan, I'm from Indonesia. <br>I like to learn about coding because thats fun and intersting. I hope u enjoy my github 
+    </p>
 </body>
 </html>
