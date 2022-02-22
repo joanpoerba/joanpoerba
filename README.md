@@ -2,35 +2,6 @@
 My name is Joan from Indonesia
 
 FAVORITE CODE
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-    <style>
-        body{
-    font-family: "Segoe UI", Arial, sans-serif;
-    color: rgb(0, 0, 0);
-}
-    </style>
-<body>
-    <img src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-    <img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
-    <div class="js" style="border: 2px solid rgb(247,224,24);
-    background: rgb(247,224,24);
-    width: 35%;
-    height: 3.2vh;
-    margin-left: 11pc;
-    margin-top: -2pc;">
-        <div class="kotakJs">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" style="width: 20px; margin-left: 2px;">
-            <p style="margin-top: -1.2pc; margin-left: 2pc; font-size: 12px;"><b>JAVASCRIPT</b></p>
-        </div>
-    </div>
-</body>
-</html>
 
+
+![wallpaper](https://user-images.githubusercontent.com/99418423/155102715-31140b41-7e45-4604-8570-feec710fc177.jpg)
