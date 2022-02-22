@@ -13,7 +13,5 @@
     </style>
 <body>
     <h1>ABOUT ME</h1>
-    <hr>
-    <p>hai everyone</p>
 </body>
 </html>
