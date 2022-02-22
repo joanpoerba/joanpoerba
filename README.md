@@ -18,6 +18,6 @@
     <br>
     <h1>PROGRAMING LANGUAGE I CAN, BUT JUST BASIC</h1>
     <div>
-        <img style="width: 5%;" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"> <img style="width: 5%;" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> <img style="width: 4%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
+        <img style="width: 5%;" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"> <img style="width: 5%;" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> <img style="width: 4%; margin-top: -20px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
 </body>
 </html>
