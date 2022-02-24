@@ -16,6 +16,5 @@
     <br>
     <h1>MY DREAM IS WORK AT:</h1>
     <img src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57XRGLAAQFXZ2Y5C4KAYQXEPCA">
-    <img src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57XRGLAAQFXZ2Y5C4KAYQXEPCA">
 </body>
 </html>
