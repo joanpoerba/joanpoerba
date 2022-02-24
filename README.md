@@ -17,8 +17,8 @@
     </p>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=joanpoerba">
-    bg
+    <br>
     <h1>MY DREAM IS WORK AT:</h1>
-    <img src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57X5MJI3MZ537QSLHZAYQU7BJQ">
+    <img src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57XRGLAAQFXZ2Y5C4KAYQXEPCA">
 </body>
 </html>
