@@ -4,4 +4,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=joanpoerba">
 <br>
 <h1>My dream job</h1>
-<img style="width:10pc;" src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57XRGLAAQFXZ2Y5C4KAYQXEPCA">
+<img style="width:50pc;" src="https://raw.githubusercontent.com/joanpoerba/my-dream/main/wallpaper.jpg?token=GHSAT0AAAAAABROM57XRGLAAQFXZ2Y5C4KAYQXEPCA">
