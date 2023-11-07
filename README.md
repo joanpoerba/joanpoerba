@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanpoerba&label=Profile%20views&color=0e75b6&style=flat" alt="joanpoerba" /> </p>
 
-- 🔭 I’m currently working on [RumahWeb](http://joan-with-rumahweb.great-site.net/view/rumahWeb.php?i=1)
-
-- 🌱 I’m currently learning **PHP OOP**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on [Discover](http://frogtel-discover.rf.gd/view/loginPage.php?i=1)
 
